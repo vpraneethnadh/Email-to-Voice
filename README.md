@@ -36,19 +36,10 @@ The **Email Text to Voice Conversion** project is a Python-based utility that re
 2️⃣ **Set Up Email Configuration:**
    - ✏️ Update `FROM_EMAIL` with your Gmail ID.
    - 🔑 Replace `FROM_PWD` with your **App Password**.
+
 3️⃣ **Run the Script:**  
    ```bash
    python email_to_voice.py
    ```
-
-## 🔮 Future Enhancements
-🚀 **Full Email Body Conversion**: Extend to read entire email content.
-🌎 **Multi-Language Support**: Support different regional languages.
-📱 **Mobile Integration**: Develop a mobile app for easy use.
-
 ## 🔗 Project Repository
 🔗 [GitHub Repository](https://github.com/vpraneethnadh/Email-to-Voice)
-
-## 🏁 Conclusion
-This **Email Text to Voice Conversion** project helps users access email content effortlessly using **speech output** in Telugu. It enhances accessibility, making email interaction more inclusive and efficient. 🔊📧
-
